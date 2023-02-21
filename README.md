@@ -1,13 +1,10 @@
-# Sample Hardhat Project
+https://drive.google.com/drive/folders/1MpuWePIxqVDIwn7qOuul4cBBSNbfeUR6?usp=sharing
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+frontend Assignment : root directory
 
-Try running some of the following tasks:
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+
+Backend Assignment : . / accountSync or https://github.com/Be-libra/AlphaVault_ui/tree/main/accountSync
+
+
+frontend Assignment for uploading image to ipfs and showing nfts : . / marketplace-complete or https://github.com/Be-libra/AlphaVault_ui/tree/main/marketplace-complete
