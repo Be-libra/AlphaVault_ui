@@ -8,3 +8,6 @@ Backend Assignment : . / accountSync or https://github.com/Be-libra/AlphaVault_u
 
 
 frontend Assignment for uploading image to ipfs and showing nfts : . / marketplace-complete or https://github.com/Be-libra/AlphaVault_ui/tree/main/marketplace-complete
+
+
+Contract Assignment : . / vestingContract or https://github.com/Be-libra/AlphaVault_ui/tree/main/vestingContract
